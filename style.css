@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Montserrat:wght@100;400&display=swap');
+
+header{
+border: 0px;
+margin: 0px;
+padding: 0px;
+border-width: 0px;
+outline-width: 0px;
+}
+
+.menu{
+    display: grid;
+    background-color: #AF5C6B;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav ul li{
+    font-size: 24px;
+    list-style-type: none;
+    text-align: center;
+    font-weight: bold;
+
+}
